@@ -1,3 +1,0 @@
-# guessGame
-
-Hola que tal
